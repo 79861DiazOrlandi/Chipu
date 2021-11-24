@@ -1,8 +1,8 @@
 {
-  "homepage":"https://79861diazorlandi.github.io/Chipu/",
   "name": "chipu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://79861diazorlandi.github.io/Chipu/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
@@ -12,7 +12,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -21,7 +20,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
