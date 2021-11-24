@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Chipu/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Chipu/static/js/main.51795728.chunk.js",
-    "main.js.map": "/Chipu/static/js/main.51795728.chunk.js.map",
+    "main.js": "/Chipu/static/js/main.14ca3836.chunk.js",
+    "main.js.map": "/Chipu/static/js/main.14ca3836.chunk.js.map",
     "runtime-main.js": "/Chipu/static/js/runtime-main.5e06e551.js",
     "runtime-main.js.map": "/Chipu/static/js/runtime-main.5e06e551.js.map",
     "static/js/2.cd55f0c8.chunk.js": "/Chipu/static/js/2.cd55f0c8.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5e06e551.js",
     "static/js/2.cd55f0c8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.51795728.chunk.js"
+    "static/js/main.14ca3836.chunk.js"
   ]
 }
