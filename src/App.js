@@ -1,24 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import PruebaRuteo from './PruebaRuteo';
+import NavBar from './Components/NavBar/NavBar';
 
 function App() {
   return (
+
     <div className="App">
+      <NavBar></NavBar>
       <header className="App-header">
+        
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Chipu the machine</code> / Prueba 8942.
+          Edit <code>Chipu the machine</code> / Prueba 99999999.
         </p>
-        <a
+       <a
           className="App-link"
-          href="https://reactjs.org"
+          href="/chipusin"
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > 
           Gracias Manu bolo
         </a>
       </header>
     </div>
+     
   );
 }
 
