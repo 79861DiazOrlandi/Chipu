@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a625f470.chunk.css",
-    "main.js": "/static/js/main.7db7b105.chunk.js",
-    "main.js.map": "/static/js/main.7db7b105.chunk.js.map",
+    "main.css": "/static/css/main.272afd07.chunk.css",
+    "main.js": "/static/js/main.0c745c8d.chunk.js",
+    "main.js.map": "/static/js/main.0c745c8d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e567ba3.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e567ba3.js.map",
     "static/js/2.4fb2d700.chunk.js": "/static/js/2.4fb2d700.chunk.js",
@@ -10,18 +10,19 @@
     "static/js/3.88ca63c4.chunk.js": "/static/js/3.88ca63c4.chunk.js",
     "static/js/3.88ca63c4.chunk.js.map": "/static/js/3.88ca63c4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a625f470.chunk.css.map": "/static/css/main.a625f470.chunk.css.map",
+    "static/css/main.272afd07.chunk.css.map": "/static/css/main.272afd07.chunk.css.map",
     "static/js/2.4fb2d700.chunk.js.LICENSE.txt": "/static/js/2.4fb2d700.chunk.js.LICENSE.txt",
     "static/media/BackgroundHome1.ac821726.jpg": "/static/media/BackgroundHome1.ac821726.jpg",
     "static/media/TentacleBackground2.9fbfcff2.png": "/static/media/TentacleBackground2.9fbfcff2.png",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/pineBackground.529528fb.png": "/static/media/pineBackground.529528fb.png",
-    "static/media/profilePictureCompress.ae28af41.jpg": "/static/media/profilePictureCompress.ae28af41.jpg"
+    "static/media/profilePictureCompress.ae28af41.jpg": "/static/media/profilePictureCompress.ae28af41.jpg",
+    "static/media/profilePictureCompress1.c25d128f.jpg": "/static/media/profilePictureCompress1.c25d128f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e567ba3.js",
     "static/js/2.4fb2d700.chunk.js",
-    "static/css/main.a625f470.chunk.css",
-    "static/js/main.7db7b105.chunk.js"
+    "static/css/main.272afd07.chunk.css",
+    "static/js/main.0c745c8d.chunk.js"
   ]
 }
