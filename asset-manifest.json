@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a625f470.chunk.css",
-    "main.js": "/static/js/main.fe96187b.chunk.js",
-    "main.js.map": "/static/js/main.fe96187b.chunk.js.map",
+    "main.js": "/static/js/main.7db7b105.chunk.js",
+    "main.js.map": "/static/js/main.7db7b105.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e567ba3.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e567ba3.js.map",
     "static/js/2.4fb2d700.chunk.js": "/static/js/2.4fb2d700.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.a625f470.chunk.css.map": "/static/css/main.a625f470.chunk.css.map",
     "static/js/2.4fb2d700.chunk.js.LICENSE.txt": "/static/js/2.4fb2d700.chunk.js.LICENSE.txt",
-    "static/media/BackgroundHome1.f5fd28aa.jpg": "/static/media/BackgroundHome1.f5fd28aa.jpg",
+    "static/media/BackgroundHome1.ac821726.jpg": "/static/media/BackgroundHome1.ac821726.jpg",
     "static/media/TentacleBackground2.9fbfcff2.png": "/static/media/TentacleBackground2.9fbfcff2.png",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
     "static/media/pineBackground.529528fb.png": "/static/media/pineBackground.529528fb.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.8e567ba3.js",
     "static/js/2.4fb2d700.chunk.js",
     "static/css/main.a625f470.chunk.css",
-    "static/js/main.fe96187b.chunk.js"
+    "static/js/main.7db7b105.chunk.js"
   ]
 }
