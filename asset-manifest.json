@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.3998f6a7.chunk.css",
-    "main.js": "/static/js/main.6085487d.chunk.js",
-    "main.js.map": "/static/js/main.6085487d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3043ae0a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3043ae0a.js.map",
-    "static/js/2.6b7851e8.chunk.js": "/static/js/2.6b7851e8.chunk.js",
-    "static/js/2.6b7851e8.chunk.js.map": "/static/js/2.6b7851e8.chunk.js.map",
-    "static/js/3.410e74e8.chunk.js": "/static/js/3.410e74e8.chunk.js",
-    "static/js/3.410e74e8.chunk.js.map": "/static/js/3.410e74e8.chunk.js.map",
+    "main.css": "/static/css/main.10db6b0e.chunk.css",
+    "main.js": "/static/js/main.3c2c701c.chunk.js",
+    "main.js.map": "/static/js/main.3c2c701c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a27b0db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a27b0db.js.map",
+    "static/js/2.7030588a.chunk.js": "/static/js/2.7030588a.chunk.js",
+    "static/js/2.7030588a.chunk.js.map": "/static/js/2.7030588a.chunk.js.map",
+    "static/js/3.7482413c.chunk.js": "/static/js/3.7482413c.chunk.js",
+    "static/js/3.7482413c.chunk.js.map": "/static/js/3.7482413c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3998f6a7.chunk.css.map": "/static/css/main.3998f6a7.chunk.css.map",
-    "static/js/2.6b7851e8.chunk.js.LICENSE.txt": "/static/js/2.6b7851e8.chunk.js.LICENSE.txt",
+    "static/css/main.10db6b0e.chunk.css.map": "/static/css/main.10db6b0e.chunk.css.map",
+    "static/js/2.7030588a.chunk.js.LICENSE.txt": "/static/js/2.7030588a.chunk.js.LICENSE.txt",
     "static/media/BackgroundHome1.ac821726.jpg": "/static/media/BackgroundHome1.ac821726.jpg",
     "static/media/TentacleBackground2.9fbfcff2.png": "/static/media/TentacleBackground2.9fbfcff2.png",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/pineBackground.529528fb.png": "/static/media/pineBackground.529528fb.png",
     "static/media/profilePictureCompress.ae28af41.jpg": "/static/media/profilePictureCompress.ae28af41.jpg",
     "static/media/profilePictureCompress1.c25d128f.jpg": "/static/media/profilePictureCompress1.c25d128f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3043ae0a.js",
-    "static/js/2.6b7851e8.chunk.js",
-    "static/css/main.3998f6a7.chunk.css",
-    "static/js/main.6085487d.chunk.js"
+    "static/js/runtime-main.0a27b0db.js",
+    "static/js/2.7030588a.chunk.js",
+    "static/css/main.10db6b0e.chunk.css",
+    "static/js/main.3c2c701c.chunk.js"
   ]
 }
